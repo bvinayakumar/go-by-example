@@ -1,2 +1,2 @@
 # go-by-example
-Learn go by examples
+This is me trying to learn Go trying out examples at https://gobyexample.com.
